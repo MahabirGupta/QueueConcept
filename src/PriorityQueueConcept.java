@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 
 
-public class Main {
+public class PriorityQueueConcept {
     public static void main(String[] args) {
 
 //        create PriortyQueue class
